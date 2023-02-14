@@ -2,7 +2,7 @@ package provider
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net"
 	"os"
 	"strconv"
